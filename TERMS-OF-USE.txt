@@ -1,0 +1,25 @@
+﻿VU3INI Humanizer, version 1.0. Terms of use. Please read these terms carefully. By clicking Agree and continue, OK or Agree, or by installing or using this software, you confirm that you have read, understood and accept these terms and that you will abide by them. If you do not agree, click Exit and uninstall the software.
+
+1. Personal use only. The author, Sasanka Boruah (VU3INI), grants you a personal, non-exclusive, non-transferable, revocable licence to install and use this software for your own lawful, personal and non-commercial purposes. You may not sell, rent, sublicense or offer it as a paid service.
+
+2. You are responsible for your use. You alone are responsible for the text you enter, for the output, for checking that output for accuracy, and for how and where you use it. The software changes the wording of text; it can introduce errors, drop details or change meaning. You must review all output before relying on it.
+
+3. No deception, no misconduct. You must not use this software or its output to commit academic dishonesty, plagiarism, fraud, impersonation or misrepresentation of authorship; to evade the rules of any school, university, publisher, employer, examination body or platform; to create spam, disinformation or unlawful content; or to break any law or infringe anyone's rights. Where rules require you to disclose the use of AI or editing tools, you must disclose it. The software does not promise to defeat or avoid AI-detection tools and must not be used for that purpose.
+
+4. Content rights. You must have the right to process the text and documents you open. You keep whatever rights you have in your own content. Nothing in these terms gives you rights in third-party content.
+
+5. Privacy and internet use. With the built-in Rules engine or a local engine (Ollama or another server on your own computer), your text stays on your computer. If you choose a cloud engine (Anthropic, OpenAI, Google or any remote server), your text is sent to that provider under its own terms and privacy policy, which you are responsible for accepting and following. API keys you enter are stored on your computer in your user profile. The software may use the internet for updates and optional model downloads when you ask it to.
+
+6. Third-party components. The software includes or works with third-party components, including the MIT-licensed humanizer rules by blader and contributors, the Go standard library, NSIS, and optional models and model servers. Each is provided by its owner under its own licence. Model weights you download are governed by their publishers' licences and acceptable use policies, which you must follow.
+
+7. No warranty. The software is provided "AS IS" and "AS AVAILABLE", without warranty of any kind, express or implied, including any warranty of merchantability, fitness for a particular purpose, accuracy, non-infringement, or that it will be error-free, uninterrupted or secure. Scores and "tells" shown by the software are indications of writing patterns only, not determinations of whether text was written by a person or a machine.
+
+8. Limitation of liability. To the fullest extent permitted by applicable law, the author and the contributors credited in this software shall not be liable for any direct, indirect, incidental, special, consequential, exemplary or punitive damages, or for any loss of data, documents, marks, grades, reputation, employment, income or profits, arising out of or in connection with the installation, use, misuse or inability to use the software or its output, even if advised of the possibility of such damage. Keep backup copies of your documents.
+
+9. Indemnity. You agree to indemnify and hold harmless the author and contributors from any claim, demand, loss, liability or expense (including reasonable legal fees) arising from your use or misuse of the software or its output, or from your breach of these terms or of any law.
+
+10. Termination. This licence ends automatically if you breach these terms. You must then stop using and uninstall the software. Sections 2, 3, 7, 8, 9 and 11 survive termination.
+
+11. Governing law. These terms are governed by the laws of India. If any provision is held unenforceable, it shall be enforced to the maximum extent permissible and the remaining provisions remain in force. These terms are the entire agreement about the software and may be updated in later versions, which will ask for your agreement again.
+
+Questions: hamvu3ini@gmail.com
